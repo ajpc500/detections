@@ -4,9 +4,8 @@ description: |
 type: "rule"
 severity: "medium"
 authors:
-  - twitter: "delivr_to"
+  - twitter: "ajpc500"
 references:
-  - https://delivr.to/payloads?id=be91a311-a023-4221-96da-6f5b717fdc54
   - https://outflank.nl/blog/2018/08/14/html-smuggling-explained/
 source: |
   type.inbound 

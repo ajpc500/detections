@@ -4,9 +4,8 @@ description: |
 type: "rule"
 severity: "high"
 authors:
-  - twitter: "delivr_to"
+  - twitter: "ajpc500"
 references:
-  - https://delivr.to/payloads?id=cee09f6e-9cac-4fc9-a033-c69254e6396c
   - https://twitter.com/pr0xylife/status/1620443413299761154
 source: |
   type.inbound 

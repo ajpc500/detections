@@ -1,7 +1,7 @@
 rule SUSP_OneNote_Win_Script_Encoding_Feb23 {
    meta:
       description = "Presence of Windows Script Encoding Header in a OneNote file with embedded files"
-      author = "delivr.to"
+      author = "ajpc500"
       date = "2023-02-19"
       score = 60
    strings:

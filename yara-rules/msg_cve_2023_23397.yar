@@ -1,7 +1,7 @@
 rule SUSP_msg_CVE_2023_23397_Mar23 {
    meta:
       description = "MSG file with a PidLidReminderFileParameter property, potentially exploiting CVE-2023-23397"
-      author = "delivr.to"
+      author = "ajpc500"
       date = "2023-03-15"
       score = 60
       reference = "https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/"

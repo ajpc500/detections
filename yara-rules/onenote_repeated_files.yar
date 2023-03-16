@@ -1,7 +1,7 @@
 rule SUSP_OneNote_Repeated_FileDataReference_Feb23 {
    meta:
       description = "Repeated references to files embedded in OneNote file. May indicate multiple copies of file hidden under image, as leveraged by Qakbot et al."
-      author = "delivr.to"
+      author = "ajpc500"
       date = "2023-02-17"
       score = 60
    strings:

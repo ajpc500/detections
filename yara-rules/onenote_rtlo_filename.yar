@@ -1,7 +1,7 @@
 rule SUSP_OneNote_RTLO_Character_Feb23 {
    meta:
       description = "Presence of RTLO Unicode Character in a OneNote file with embedded files"
-      author = "delivr.to"
+      author = "ajpc500"
       date = "2023-02-17"
       score = 60
    strings:
